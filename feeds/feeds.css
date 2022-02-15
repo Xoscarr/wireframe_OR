@@ -1,0 +1,37 @@
+.feeds-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1.5rem;
+}
+.main-feed{
+    width: 70%;
+    margin-left: 3rem;
+}
+.secondary-feeds-container{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    margin-right: 3rem;
+    margin-left: 1.5rem;
+}
+h1{
+    background-color: #9675DD;
+    color: white;
+    width: 100%;
+}
+h3{
+    background-color: #9675DD;
+    color: black;
+}
+.card{
+    width: 100%;
+}
+.secondary-post{
+    margin-bottom: 1rem;
+}
+.truncated{
+    overflow: hidden;
+    display: block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
