@@ -1,0 +1,26 @@
+.messages-title {
+  background-color: #9675dd;
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+.input-group {
+  margin-left: 18rem;
+  margin-top: 2rem;
+}
+
+.feeds-container {
+  width: 50%;
+  margin-left: 2rem;
+}
+
+.feed-icons {
+  margin-left: 28rem;
+}
+.feed-icons i {
+  color: #9675dd;
+  font-size: 20px;
+}

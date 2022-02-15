@@ -1,0 +1,34 @@
+.feed-title {
+  display: flex;
+  justify-content: center;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  background-color: #9675dd;
+  color: white;
+  justify-content: center;
+}
+.feeds-container {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.input-group {
+  display: flex;
+  margin-left: 40rem;
+  margin-top: 2rem;
+}
+
+.feed-icons {
+  margin-left: 18rem;
+}
+
+.feed-icons i {
+  margin-right: 20px;
+  color: #9675dd;
+  font-size: 20px;
+}
