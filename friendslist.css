@@ -32,3 +32,17 @@
   color: #9675dd;
   font-size: 20px;
 }
+
+.main-feed {
+  display: flex;
+  margin-left: 29rem;
+  flex-direction: column;
+  width: 40%;
+}
+.delete-button {
+  display: flex;
+  position: relative;
+  margin-left: 23rem;
+  top: -5rem;
+  color: #9675dd;
+}

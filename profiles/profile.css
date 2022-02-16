@@ -1,0 +1,13 @@
+.profile-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
+.card-link {
+  text-decoration: none;
+  color: #9675dd;
+}
+h5 {
+  color: #9675dd;
+}
